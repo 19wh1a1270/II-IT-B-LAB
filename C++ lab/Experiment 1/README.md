@@ -7,4 +7,4 @@ to display the names and roll numbers of all the students
 3
 4
 ### Output Obtained
-.![Output](Screenshot(653).png)
+![Output](Screenshot (653).png)
