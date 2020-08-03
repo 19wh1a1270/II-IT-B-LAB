@@ -6,3 +6,5 @@ to display the names and roll numbers of all the students
 2
 3
 4
+### Output Obtained
+
