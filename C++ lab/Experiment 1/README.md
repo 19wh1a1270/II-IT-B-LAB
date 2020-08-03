@@ -7,4 +7,4 @@ to display the names and roll numbers of all the students
 3
 4
 ### Output Obtained
-![Output](ts hall ticket.jpg)
+![Output](ts hall ticket.pdf)
