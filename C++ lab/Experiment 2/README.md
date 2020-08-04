@@ -1,2 +1,2 @@
 ### Output Obtained
-![Output](10th memo)
+![Output](10th memo.jpeg)
