@@ -8,5 +8,10 @@ A linear search is a method for finding an element within a list. It sequentiall
 2.Write the main fuction and call the linear search function. If the result is 0, then print that the element is not in the array and if the the element is present in the array then return the index value
 
 ### Output Obtained
+Firstly the n value is taken i.e n is the number of elements in the list and if n is equal to zero then the result will return as 0 and print the result as the element is not present in the array and if n is not zero then the nth element will be cross checked with the target value and if it doesnt match the value of n will be decreased by 1 and again the linear search function is called , this will repeat till the target value is found.This will return the result element 66 is present at index 8
 
+![Outout](out66.png)
 
+since the element 0 is not present in the array, the n value will become 0 till the end and the result will return as the element is not present in the array
+
+![Output](out0.png)
