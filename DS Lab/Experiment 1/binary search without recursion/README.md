@@ -13,4 +13,4 @@ Binary Search is Searching a sorted array by repeatedly dividing the search inte
 
 5.The output is : Element 6 is present at index 1
 
-![Output1](output6)
+![Output1](output6.png)
