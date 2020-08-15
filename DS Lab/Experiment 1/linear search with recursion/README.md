@@ -11,7 +11,7 @@ A linear search is a method for finding an element within a list. It sequentiall
 
 4.Here since the element is 66. the value of n is 10 since the n is not 0 it will check the 9th index element with the target number and 30 is not equal to 66 then the linear search function is called again with the number of elements 9 and again n is not equal to 0 then the element of the 8th index is checked with the target number and that condition is true so the index will return i.e 8
 
-5.The output is the number 66 is present at the index 8
+5.The output is : Element 66 is present at the index 8
 
 ![Outout](out66.png)
 
