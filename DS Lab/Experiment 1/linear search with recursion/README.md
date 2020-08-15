@@ -3,6 +3,7 @@ Write a program that use recursive functions to perform the linaer search opeati
 ## Description
 A linear search is a method for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched
 ### Step-by-step procedure for the Output
+# First target number: 0
 1.Give the values of the array and take the number of elements in the array as n and the target number as t
 
 2.Write a fuction with name linear search which will return 0 when the n will become 0, will return the index of the number if the target number is equal to the number and if not then call the linear seach function again with number of elements of the array decresed by 1
@@ -15,6 +16,7 @@ A linear search is a method for finding an element within a list. It sequentiall
 
 ![Outout](out66.png)
 
+# Second target number: 66
 1.Give the values of the array and take the number of elements in the array as n and the target number as t
 
 2.Write a fuction with name linear search which will return 0 when the n will become 0, will return the index of the number if the target number is equal to the number and if not then call the linear seach function again with number of elements of the array decresed by 1
