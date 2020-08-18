@@ -4,7 +4,7 @@ Write a program that implements bubble sort method to sort a given list of integ
 ### Bubble Sort
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order
 # Step-by-step procedure for the output
-##First Output
+## First Output
 
 1. The program contains 2 functions i.e main fuction and the bubble sort function which returns that "the array is already sorted" if the array is already sorted and if the array is not sorted , it will return the sorted array.
 
