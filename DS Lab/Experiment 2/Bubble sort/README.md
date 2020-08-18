@@ -17,6 +17,7 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
               [1 6 7 13 28]
               [1 6 7 13 28]
               [1 6 7 13 28]
+              
 4.Generally, after 1st iteration the last element will be fixed, after the 2nd iteration the last before element will be fixed and soon.But here after the 1st iteration only the array is sorted, so the final values are returned
 
 5.The result is : 1, 6, 7, 13, 28
