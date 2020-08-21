@@ -3,5 +3,5 @@ Write a C++ program to add numbers until the user enters zero
 
 ## Output obtained
 
-![output](zeroout.png)
+![output](sum0out.png)
 
