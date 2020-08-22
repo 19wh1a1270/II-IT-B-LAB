@@ -3,4 +3,4 @@ Write a C++ program to use Nested if...else statement
 
 ## Output obtained
 
-![output](ifelse.png)
+![output](nestedifout.png)
