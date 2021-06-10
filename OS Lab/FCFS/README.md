@@ -14,3 +14,6 @@
 #### b. Average Turnaround time = Total Turnaround Time / Number of process
 ### 7: Stop the process
 
+# Output
+![output](fcfs.png)
+
