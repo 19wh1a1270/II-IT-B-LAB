@@ -1,4 +1,2 @@
-OUTPUT
 
-![Output]{bankers.jpeg}
 
