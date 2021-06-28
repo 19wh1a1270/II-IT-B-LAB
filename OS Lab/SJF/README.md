@@ -1,1 +1,4 @@
+OUTPUT 
+
+![Output](SJF.jpeg)
 
