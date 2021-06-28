@@ -1,3 +1,3 @@
 OUTPUT
 
-![Output]{bankers.jpeg}
+![Output](bankers.jpeg)
