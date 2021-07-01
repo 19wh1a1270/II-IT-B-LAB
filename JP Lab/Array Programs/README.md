@@ -6,3 +6,8 @@
 ## d)	Java Program to sort an array in ascending order
 ## e)	Java Program to convert char Array to String
 
+## f)   Java Program to Calculate grades of Student
+## g)   Java Program to make a calculator using switch case
+
+
+
