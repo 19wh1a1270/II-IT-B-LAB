@@ -23,4 +23,3 @@ public class ListDirectoryRecursive {
         test.listDirectory(dirToList, 0);
     }
 }
-© 2021 GitHub, Inc.
